@@ -38,3 +38,4 @@ let studentsWhoPass = [];
 | Criteria | Exemplary                      | Adequate                      | Needs Improvement               |
 | -------- | ------------------------------ | ----------------------------- | ------------------------------- |
 |          | Complete solution is presented | Partial solution is presented | Solution with bugs is presented |
+|          | Complete solution is presented | Partial solution is presented | Solution with bugs is presented |
